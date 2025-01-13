@@ -15,6 +15,8 @@ seguem abaixo.
 - [ChatGPT](https://chat.openai.com/)
 
 - [Leonardo AI](https://leonardo.ai.com/)
+
+- [Canva](https://www.canva.com/)
   
 
 
@@ -71,15 +73,24 @@ Ofereça desafios simples ao final de cada capítulo, como "Adicione a operaçã
 Inclua uma seção de links úteis ou materiais adicionais no final para quem quiser aprofundar os estudos. |
 
 
+
 Leonardo AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | título | Crie um desenho que contenha a imagem de uma calculadora simples. Esse desenho não poder conter título ou textos adicionais. Use as cores azul, amarelo e preto
+
+Canva：
+
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| Ediçao | Ediçao de imagens, textos e estilos tudo feito no Canva.
+
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Leonardo AI
+- Edição do ebook via Canva
 
 ## 📚 Materiais
 
