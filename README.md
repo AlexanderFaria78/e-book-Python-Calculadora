@@ -1,28 +1,10 @@
-# e-book-Python-Calculadora
-
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
+# Ebook-Python-Calculadora
 
 
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
--------
-
-
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
 
 # Projeto EBOOK Gerado por I.A.s
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
@@ -42,11 +24,53 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema: "Programando em Python, crie a sua primeira caculadora de forma simples e rápida". O ebookk é do nicho de programação e o subnicho é iniciantes em Python, o título deve ser curto e chamativo, liste, por favor, 5 variações de títulos.                                                        |
+| conteúdo | Poderia criar todo o roteiro com exemplos de códigos para um e-book, com essas características:
+
+Estrutura entre 20 e 30 páginas, organizadas da seguinte forma:
+
+Estrutura Sugerida
+Introdução (2-3 páginas)
+
+Apresentação do e-book.
+Objetivo do projeto (criar uma calculadora clássica com Python).
+Requisitos básicos (Python instalado, noções iniciais de programação).
+Fundamentos de Python (4-6 páginas)
+
+Explicação breve de variáveis, funções, e operadores matemáticos.
+Introdução ao uso de bibliotecas, como tkinter para interface gráfica.
+Construção da Calculadora (Parte Funcional) (5-7 páginas)
+
+Criação da estrutura básica do programa.
+Implementação das operações matemáticas (soma, subtração, multiplicação, divisão).
+Adicionando a Interface Gráfica (5-7 páginas)
+
+Introdução ao tkinter.
+Passo a passo para criar a janela da calculadora e organizar os botões e displays.
+Transformando o Código em um Executável (2-3 páginas)
+
+Como usar bibliotecas como pyinstaller para gerar o arquivo .exe.
+Dicas para testar o executável em outros computadores.
+Extras e Dicas Finais (2-3 páginas)
+
+Personalização da interface (cores, fontes, etc.).
+Sugestões para melhorar o projeto (adicionar funcionalidades como porcentagem ou raiz quadrada).
+Conclusão (1-2 páginas)
+
+Recapitulação do aprendizado.
+
+Incentivo para explorar mais sobre Python e programação.
+
+REGRAS:
+
+Mantenha cada seção concisa, com exemplos claros e imagens de código sempre que necessário.
+
+Ofereça desafios simples ao final de cada capítulo, como "Adicione a operação de potência na calculadora."
+
+Inclua uma seção de links úteis ou materiais adicionais no final para quem quiser aprofundar os estudos. |
 
 
-Midjourney：
+MS Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
@@ -55,7 +79,7 @@ Midjourney：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via MS Copilot
 
 ## 📚 Materiais
 
