@@ -9,12 +9,13 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/)
-- [MS Copitot] (whatsapp +1 877-224-1042).
+
+- [Leonardo AI](https://leonardo.ai.com/)
+  
 
 
 ## 🧠 Prompts
@@ -70,16 +71,15 @@ Ofereça desafios simples ao final de cada capítulo, como "Adicione a operaçã
 Inclua uma seção de links úteis ou materiais adicionais no final para quem quiser aprofundar os estudos. |
 
 
-MS Copilot：
+Leonardo AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
-
+| título | Crie um desenho que contenha a imagem de uma calculadora simples. Esse desenho não poder conter título ou textos adicionais. Use as cores azul, amarelo e preto
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MS Copilot
+- Imagens geradas via Leonardo AI
 
 ## 📚 Materiais
 
